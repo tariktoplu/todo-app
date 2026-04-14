@@ -48,8 +48,3 @@ npm run build
 
 ![TODO App ekran görüntüsü](./public/project-screenshot.png)
 
-## Teslim Adımları
-
-1. Projeyi public bir GitHub reposuna yükleyin.
-2. GitHub linkini proje teslim formunda paylaşın.
-3. Netlify (veya muadili) ile deploy edin ve canlı linki teslimde paylaşın.
